@@ -184,18 +184,16 @@ Open **http://localhost:8501** in your browser.
 
 ---
 
-## 🚀 Deployment
-
-This app is deployed on **Streamlit Cloud**:
-
-1. Push this repo to GitHub (without `saved_model/`)
-2. Upload model weights to HuggingFace Hub
-3. Go to [share.streamlit.io](https://share.streamlit.io) → New App
-4. Select your repo → `app.py` → Deploy
+🌐 Live Demo
+🚀 Access the deployed application:
+👉 https://your-app-name.streamlit.app
 
 ---
 
+🎯 Conclusion
+SafeGuard AI showcases a complete end-to-end NLP pipeline — from large-scale dataset processing to transformer-based modeling and real-time deployment. The project demonstrates how modern AI systems can be efficiently built and scaled for practical use cases like content moderation.
 
-Made with ❤️ · If this helped you, consider giving it a ⭐
+⭐ Support
+If you found this project helpful, consider giving it a ⭐ on GitHub — it helps showcase the work!
 
 </div>

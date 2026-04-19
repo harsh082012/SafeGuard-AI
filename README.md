@@ -184,15 +184,10 @@ Open **http://localhost:8501** in your browser.
 
 ---
 
-🌐 Live Demo
-🚀 Access the deployed application:
-👉 https://your-app-name.streamlit.app
-
----
-
 🎯 Conclusion
 SafeGuard AI showcases a complete end-to-end NLP pipeline — from large-scale dataset processing to transformer-based modeling and real-time deployment. The project demonstrates how modern AI systems can be efficiently built and scaled for practical use cases like content moderation.
 
+---
 ⭐ Support
 If you found this project helpful, consider giving it a ⭐ on GitHub — it helps showcase the work!
 
